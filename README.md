@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BREAK POINT — Advanced Personal AI Desktop Assistant
 > Inspired by the capabilities, technical depth, and experience of Tony Stark's J.A.R.V.I.S.
 
@@ -316,3 +317,6 @@ BREAK POINT features a production-grade multi-provider AI infrastructure specifi
 ## 8. License & Attribution
 Designed and built for Project **BREAK POINT**. Inspired by Tony Stark's J.A.R.V.I.S.
 All system telemetry, tools, and persistence layers run under strict local user control.
+=======
+# break-point-
+>>>>>>> 621de7f1b63dbacb509d95e738a258bab22242fe
